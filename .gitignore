@@ -10,3 +10,5 @@ ddd.py
 *.png
 *.pdf
 *ipynb
+server_fast_api.py
+server.py
